@@ -1,0 +1,1 @@
+syft docker.io/kodekloud/webapp-color:latest -o cyclonedx-json --file webapp-spdx.json

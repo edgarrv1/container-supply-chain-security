@@ -1,0 +1,1 @@
+grype sbom:/root/webapp-sbom.json -o json > /root/grype-report.json
